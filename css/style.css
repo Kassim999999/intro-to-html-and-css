@@ -295,13 +295,11 @@ nav{
     }
 
 
-    td{
-        p:first-child{
+    td p:first-child{
             font-family: var(--header-font);
             font-weight: 500;
             color: #343a40;
             font-size: 20px;
-        }
     }
 
 }
